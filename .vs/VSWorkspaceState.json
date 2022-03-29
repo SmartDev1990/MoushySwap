@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\views",
+    "\\src\\views\\FarmAuction\\components",
+    "\\src\\views\\FarmAuction\\components\\AuctionDetailsCard",
+    "\\src\\views\\Farms",
+    "\\src\\views\\Farms\\components",
+    "\\src\\views\\Farms\\components\\FarmCard",
+    "\\src\\views\\Farms\\components\\FarmTable",
+    "\\src\\views\\Farms\\components\\FarmTable\\Actions"
+  ],
+  "SelectedNode": "\\src\\views\\Farms\\components\\StakedLP.tsx",
+  "PreviewInSolutionExplorer": false
+}
